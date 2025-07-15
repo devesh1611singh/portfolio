@@ -1,22 +1,20 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "A computational ontology framework for the synthesis of multi-level pathology reports from brain MRI scans"
+    authors: <strong>Devesh Singh</strong>, Alice Grazia, Achim Reiz, Andreas Hermann, Slawek Altenstein, Lukas Beichert, Alexander Bernhardt, Katharina Buerger, Michaela Butryn, Peter Dechent, Emrah Duezel, Michael Ewers, Klaus Fliessbach, Silka D Freiesleben, Wenzel Glanz, Stefan Hetzer, Daniel Janowitz, Ingo Kilimann, Okka Kimmich, Christoph Laske, Johannes Levin, Andrea Lohse, Falk Luesebrink, Matthias Munk, Robert Perneczky, Oliver Peters, Lukas Preis, Josef Priller, Johannes Prudlo, Boris S Rauchmann, Ayda Rostamzadeh, Nina Roy-Kluth, Klaus Scheffler, Anja Schneider, Luisa S Schneider, Björn H Schott, Annika Spottke, Eike J Spruth, Matthis Synofzik, Jens Wiltfang, Frank Jessen, Stefan J Teipel, Martin Dyrba* (*Corresponding author)
+    journal_short: JAD
+    journal: Journal of Alzheimer’s Disease
+    full text: https://journals.sagepub.com/doi/epub/10.1177/13872877251331222
+    doi: https://doi.org/10.1177/13872877251331222
+    code: https://github.com/martindyrba/CompOntoVisFramework
+    image: ./assets/img/comp_onto_viz_git_page.png
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+
+  - title: "Contrastive self-supervised learning for neurodegenerative disorder classification"
+    authors: Vadym Gryshchuk, <strong>Devesh Singh</strong>, Stefan Teipel, Martin Dyrba* (*Corresponding author)
+    journal_short: Front. Neuroinform.
+    journal: Frontiers in Neuroinformatics
+    full text: https://www.frontiersin.org/journals/neuroinformatics/articles/10.3389/fninf.2025.1527582/full
+    doi: https://doi.org/10.3389/fninf.2025.1527582
+    code: https://github.com/VadymV/clinic-net
+    image: ./assets/img/SSL.png
