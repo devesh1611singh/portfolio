@@ -17,3 +17,5 @@ My research centers on building explainable AI models for disease detection usin
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+
+{% include_relative _includes/contact.md %}
