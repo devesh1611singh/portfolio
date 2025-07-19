@@ -1,7 +1,7 @@
 
 ## Contact Details
 
-<p><strong>Address:</strong> <a href="https://g.co/kgs/rxPUUfh">Schillingallee 70d, 18057 Rostock, Germany</a>
+<p><strong>Address:</strong> <a href="https://g.co/kgs/Je48aCs">Ernst-Heydemann-Str. 6, 18057 Rostock, Germany</a>
 <br />
 <strong>Office Location:</strong> Universitätsmedizin Rostock: Biomedicum
 <br />
