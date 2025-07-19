@@ -14,6 +14,7 @@ My research focuses on building explainable AI models for disease detection usin
 - **Deep Learning:** Self-supervised learning, Generative modeling, Explainable AI (XAI)
 
 
+<div style="margin-top: 40px;"></div>
 {% include_relative _includes/publications.md %}
 <div style="margin-top: 40px;"></div>
 {% include_relative _includes/services.md %}
