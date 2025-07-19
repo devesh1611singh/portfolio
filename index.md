@@ -15,8 +15,8 @@ My research focuses on building explainable AI models for disease detection usin
 
 
 {% include_relative _includes/publications.md %}
-
+<div style="margin-top: 40px;"></div>
 {% include_relative _includes/services.md %}
-
+<div style="margin-top: 40px;"></div>
 {% include_relative _includes/contact.md %}
 
