@@ -34,5 +34,4 @@ main:
     journal: bioRxiv 
     fulltext: https://www.biorxiv.org/content/10.1101/2024.11.07.622411v1.full
     doi: https://doi.org/10.1101/2024.11.07.622411
-    code: https://github.com/martindyrba/xai4dementia-framework/tree/master
     image: ./assets/img/SMAS.png
