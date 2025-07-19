@@ -43,7 +43,7 @@ main:
     code: https://github.com/martindyrba/VisualAiD
     image: ./assets/img/VisualAid.png
 
-- title: "Evaluating the fidelity of explanations for convolutional neural networks in alzheimer’s disease detection"
+  - title: "Evaluating the fidelity of explanations for convolutional neural networks in alzheimer’s disease detection"
     authors: Bjarne C Hiller, Sebastian Bader, <strong>Devesh Singh</strong>, Thomas Kirste, Martin Becker, Martin Dyrba
     journal_short: BVM 
     journal: German Conference on Medical Image Computing (BVM)
