@@ -9,7 +9,6 @@ main:
     code: https://github.com/martindyrba/CompOntoVisFramework
     image: ./assets/img/comp_onto_viz_git_page.png
 
-
   - title: "Contrastive self-supervised learning for neurodegenerative disorder classification"
     authors: Vadym Gryshchuk, <strong>Devesh Singh</strong>, Stefan Teipel, Martin Dyrba* (*Corresponding author)
     journal_short: Front. Neuroinform.
@@ -35,3 +34,20 @@ main:
     fulltext: https://www.biorxiv.org/content/10.1101/2024.11.07.622411v1.full
     doi: https://doi.org/10.1101/2024.11.07.622411
     image: ./assets/img/SMAS.png
+
+  - title: "Comparison of CNN Architectures for Detecting Alzheimer’s Disease using Relevance Maps"
+    authors: <strong>Devesh Singh</strong>, Martin Dyrba
+    journal_short: BVM 
+    journal: German Conference on Medical Image Computing (BVM)
+    doi: https://doi.org/10.1007/978-3-658-41657-7_51
+    code: https://github.com/martindyrba/VisualAiD
+    image: ./assets/img/VisualAid.png
+
+- title: "Evaluating the fidelity of explanations for convolutional neural networks in alzheimer’s disease detection"
+    authors: Bjarne C Hiller, Sebastian Bader, <strong>Devesh Singh</strong>, Thomas Kirste, Martin Becker, Martin Dyrba
+    journal_short: BVM 
+    journal: German Conference on Medical Image Computing (BVM)
+    doi: https://doi.org/10.1007/978-3-658-47422-5_18
+    code: https://github.com/bckrlab/ad-fidelity
+    image: ./assets/img/ad-fidelity.png
+    
