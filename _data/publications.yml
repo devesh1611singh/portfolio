@@ -4,7 +4,7 @@ main:
     authors: <strong>Devesh Singh</strong>, Alice Grazia, Achim Reiz, Andreas Hermann, Slawek Altenstein, Lukas Beichert, Alexander Bernhardt, Katharina Buerger, Michaela Butryn, Peter Dechent, Emrah Duezel, Michael Ewers, Klaus Fliessbach, Silka D Freiesleben, Wenzel Glanz, Stefan Hetzer, Daniel Janowitz, Ingo Kilimann, Okka Kimmich, Christoph Laske, Johannes Levin, Andrea Lohse, Falk Luesebrink, Matthias Munk, Robert Perneczky, Oliver Peters, Lukas Preis, Josef Priller, Johannes Prudlo, Boris S Rauchmann, Ayda Rostamzadeh, Nina Roy-Kluth, Klaus Scheffler, Anja Schneider, Luisa S Schneider, Björn H Schott, Annika Spottke, Eike J Spruth, Matthis Synofzik, Jens Wiltfang, Frank Jessen, Stefan J Teipel, Martin Dyrba* (*Corresponding author)
     journal_short: JAD
     journal: Journal of Alzheimer’s Disease
-    full text: https://journals.sagepub.com/doi/epub/10.1177/13872877251331222
+    fulltext: https://journals.sagepub.com/doi/epub/10.1177/13872877251331222
     doi: https://doi.org/10.1177/13872877251331222
     code: https://github.com/martindyrba/CompOntoVisFramework
     image: ./assets/img/comp_onto_viz_git_page.png
@@ -14,7 +14,25 @@ main:
     authors: Vadym Gryshchuk, <strong>Devesh Singh</strong>, Stefan Teipel, Martin Dyrba* (*Corresponding author)
     journal_short: Front. Neuroinform.
     journal: Frontiers in Neuroinformatics
-    full text: https://www.frontiersin.org/journals/neuroinformatics/articles/10.3389/fninf.2025.1527582/full
+    fulltext: https://www.frontiersin.org/journals/neuroinformatics/articles/10.3389/fninf.2025.1527582/full
     doi: https://doi.org/10.3389/fninf.2025.1527582
     code: https://github.com/VadymV/clinic-net
     image: ./assets/img/SSL.png
+
+  - title:  [Preprint] "An Unsupervised XAI Framework for Dementia Detection with Context Enrichment"
+    authors:  <strong>Devesh Singh</strong>, Yusuf Brima, Fedor Levin, Martin Becker, Bjarne Hiller, Andreas Hermann, Irene Villar-Munoz, Lukas Beichert, Alexander Bernhardt, Katharina Buerger, Michaela Butryn, Peter Dechent, Emrah Duezel, Michael Ewers, Klaus Fliessbach, Silka D. Freiesleben, Wenzel Glanz, Stefan Hetzer, Daniel Janowitz, Doreen Goerss, Ingo Kilimann, Okka Kimmich, Christoph Laske, Johannes Levin, Andrea Lohse, Falk Luesebrink, Matthias Munk, Robert Perneczky, Oliver Peters, Lukas Preis, Josef Priller, Johannes Prudlo, Diana Prychynenko, Boris-Stephan Rauchmann, Ayda Rostamzadeh, Nina Roy-Kluth, Klaus Scheffler, Anja Schneider, Louise Droste zu Senden, Bjoern H. Schott, Annika Spottke, Matthis Synofzik, Jens Wiltfang, Frank Jessen, Marc-Andre Weber, Stefan J Teipel, Martin Dyrba* (*Corresponding author)
+    journal_short: medRxiv 
+    journal: medRxiv 
+    fulltext: https://www.medrxiv.org/content/10.1101/2025.05.28.25327435v1.full-text
+    doi: https://doi.org/10.1101/2025.05.28.25327435
+    code: https://github.com/martindyrba/xai4dementia-framework/tree/master
+    image: ./assets/img/XAI3.png
+
+  - title:  [Preprint] "SMAS: Structural MRI-Based AD Score using Bayesian VAE"
+    authors:  Aditya Nemali, Jose Bernal, Renat Yakupov, <strong>Devesh Singh</strong>, Martin Dyrba, EI Incesoy, Sach Mukherjee, Oliver Peters, J Hellmann-Regen, Ersin Ersoezlue, Lukas Preis, Josef Priller, Eike Spruth, Slawek Altenstein, Andrea Lohse, Anja Schneider, Klaus Fliessbach, Okka Kimmich, Jens Wiltfang, Niels Hansen, Bjoernhendrik Schott, Ayda Rostamzadeh, Wenzel Glanz, Michaela Butryn, Katharina Buerger, Daniel Janowitz, Michael Ewers, Robert Perneczky, Boris Rauchmann, Stefan Teipel, Ingo Kilimann, Doreen Goerss, Christoph Laske, Sebastian Sodenkamp, Annika Spottke, Marie Coenjaerts, Frederic Brosseron, Falk Luesebrink, Peter Dechent, Klaus Scheffler, Stefan Hetzer, Luca Kleineidam, Melina Stark, Frank Jessen, E Duzel, Gabriel Ziegler
+    journal_short: bioRxiv 
+    journal: bioRxiv 
+    fulltext: https://www.biorxiv.org/content/10.1101/2024.11.07.622411v1.full
+    doi: https://doi.org/10.1101/2024.11.07.622411
+    code: https://github.com/martindyrba/xai4dementia-framework/tree/master
+    image: ./assets/img/SMAS.png
