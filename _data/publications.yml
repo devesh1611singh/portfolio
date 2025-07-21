@@ -9,10 +9,10 @@ main:
     code: https://github.com/martindyrba/xai4dementia-framework/tree/master
     image: ./assets/img/XAI3.png
 
-  - title: "[Preprint] SMAS: Structural MRI-Based AD Score using Bayesian VAE"
+  - title: "[In-press] SMAS: Structural MRI-Based AD Score using Bayesian VAE"
     authors:  Aditya Nemali, Jose Bernal, Renat Yakupov, <strong>Devesh Singh</strong>, Martin Dyrba, EI Incesoy, Sach Mukherjee, Oliver Peters, J Hellmann-Regen, Ersin Ersoezlue, Lukas Preis, Josef Priller, Eike Spruth, Slawek Altenstein, Andrea Lohse, Anja Schneider, Klaus Fliessbach, Okka Kimmich, Jens Wiltfang, Niels Hansen, Bjoernhendrik Schott, Ayda Rostamzadeh, Wenzel Glanz, Michaela Butryn, Katharina Buerger, Daniel Janowitz, Michael Ewers, Robert Perneczky, Boris Rauchmann, Stefan Teipel, Ingo Kilimann, Doreen Goerss, Christoph Laske, Sebastian Sodenkamp, Annika Spottke, Marie Coenjaerts, Frederic Brosseron, Falk Luesebrink, Peter Dechent, Klaus Scheffler, Stefan Hetzer, Luca Kleineidam, Melina Stark, Frank Jessen, E Duzel, Gabriel Ziegler
-    journal_short: bioRxiv 
-    journal: bioRxiv 
+    journal_short: CIBM 
+    journal: Computers in Biology and Medicine
     fulltext: https://www.biorxiv.org/content/10.1101/2024.11.07.622411v1.full
     doi: https://doi.org/10.1101/2024.11.07.622411
     image: ./assets/img/SMAS.png
