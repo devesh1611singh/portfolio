@@ -4,7 +4,7 @@ main:
     authors:  <strong>Devesh Singh*</strong>, Yusuf Brima, Fedor Levin, Martin Becker, Bjarne Hiller, Andreas Hermann, Irene Villar-Munoz, Lukas Beichert, Alexander Bernhardt, Katharina Buerger, Michaela Butryn, Peter Dechent, Emrah Duezel, Michael Ewers, Klaus Fliessbach, Silka D. Freiesleben, Wenzel Glanz, Stefan Hetzer, Daniel Janowitz, Doreen Goerss, Ingo Kilimann, Okka Kimmich, Christoph Laske, Johannes Levin, Andrea Lohse, Falk Luesebrink, Matthias Munk, Robert Perneczky, Oliver Peters, Lukas Preis, Josef Priller, Johannes Prudlo, Diana Prychynenko, Boris-Stephan Rauchmann, Ayda Rostamzadeh, Nina Roy-Kluth, Klaus Scheffler, Anja Schneider, Louise Droste zu Senden, Bjoern H. Schott, Annika Spottke, Matthis Synofzik, Jens Wiltfang, Frank Jessen, Marc-Andre Weber, Stefan J Teipel, Martin Dyrba* (*Corresponding author)
     journal_short: Sci Rep
     journal: Scientific Reports
-    fulltext: https://rdcu.be/ePwxU
+    fulltext: https://doi.org/10.1038/s41598-025-26227-2
     doi: https://doi.org/10.1038/s41598-025-26227-2
     code: https://github.com/martindyrba/xai4dementia-framework/tree/master
     image: ./assets/img/XAI3.png
