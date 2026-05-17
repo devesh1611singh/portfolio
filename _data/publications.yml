@@ -1,13 +1,13 @@
 main:
 
   - title: "Evidence-Supported Automated Impressions for Alzheimer’s Disease Detection from Brain MRI: A Feasibility Study"
-    authors:  <strong>Devesh Singh*</strong>, Dhanush H. Babu, Mathias Manzke, Marc-André Weber, Majid Ramedani, Arijana Bohr, Emmanuelle Salin, Bjoern Eskofier, Martin Dyrba
+    authors:  <strong>Devesh Singh</strong>, Dhanush H. Babu, Mathias Manzke, Marc-André Weber, Majid Ramedani, Arijana Bohr, Emmanuelle Salin, Bjoern Eskofier, Martin Dyrba
     journal_short: MIDL
-    journal: Medical Imaging with Deep Learning
+    journal: Medical Imaging with Deep Learning (MIDL)
     fulltext: https://openreview.net/pdf?id=kEdSwWl1OG
     doi: https://openreview.net/forum?id=kEdSwWl1OG
     code: https://github.com/DhanushBabu18/MRIs-to-Radiological-Dementia-Reports/
-    image: ./assets/img/XAI3.png
+    image: ./assets/img/MIDL_DS.png
 
 
   - title: "An Unsupervised XAI Framework for Dementia Detection with Context Enrichment"
