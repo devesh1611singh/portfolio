@@ -1,5 +1,15 @@
 main:
 
+  - title: "Evidence-Supported Automated Impressions for Alzheimer’s Disease Detection from Brain MRI: A Feasibility Study"
+    authors:  <strong>Devesh Singh*</strong>, Dhanush H. Babu, Mathias Manzke, Marc-André Weber, Majid Ramedani, Arijana Bohr, Emmanuelle Salin, Bjoern Eskofier, Martin Dyrba
+    journal_short: MIDL
+    journal: Medical Imaging with Deep Learning
+    fulltext: https://openreview.net/pdf?id=kEdSwWl1OG
+    doi: https://openreview.net/forum?id=kEdSwWl1OG
+    code: https://github.com/DhanushBabu18/MRIs-to-Radiological-Dementia-Reports/
+    image: ./assets/img/XAI3.png
+
+
   - title: "An Unsupervised XAI Framework for Dementia Detection with Context Enrichment"
     authors:  <strong>Devesh Singh*</strong>, Yusuf Brima, Fedor Levin, Martin Becker, Bjarne Hiller, Andreas Hermann, Irene Villar-Munoz, Lukas Beichert, Alexander Bernhardt, Katharina Buerger, Michaela Butryn, Peter Dechent, Emrah Duezel, Michael Ewers, Klaus Fliessbach, Silka D. Freiesleben, Wenzel Glanz, Stefan Hetzer, Daniel Janowitz, Doreen Goerss, Ingo Kilimann, Okka Kimmich, Christoph Laske, Johannes Levin, Andrea Lohse, Falk Luesebrink, Matthias Munk, Robert Perneczky, Oliver Peters, Lukas Preis, Josef Priller, Johannes Prudlo, Diana Prychynenko, Boris-Stephan Rauchmann, Ayda Rostamzadeh, Nina Roy-Kluth, Klaus Scheffler, Anja Schneider, Louise Droste zu Senden, Bjoern H. Schott, Annika Spottke, Matthis Synofzik, Jens Wiltfang, Frank Jessen, Marc-Andre Weber, Stefan J Teipel, Martin Dyrba* (*Corresponding author)
     journal_short: Sci Rep
