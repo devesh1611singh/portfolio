@@ -11,7 +11,7 @@ main:
 
 
   - title: "An Unsupervised XAI Framework for Dementia Detection with Context Enrichment"
-    authors:  <strong>Devesh Singh*</strong>, Yusuf Brima, Fedor Levin, et al.
+    authors:  <strong>Devesh Singh*</strong> et al.
     journal_short: Sci Rep
     journal: Scientific Reports
     fulltext: https://doi.org/10.1038/s41598-025-26227-2
@@ -36,7 +36,7 @@ main:
     image: ./assets/img/ad-fidelity.png
     
   - title: "A computational ontology framework for the synthesis of multi-level pathology reports from brain MRI scans"
-    authors: <strong>Devesh Singh</strong>, Alice Grazia, et al.
+    authors: <strong>Devesh Singh</strong> et al.
     journal_short: JAD
     journal: Journal of Alzheimer’s Disease
     fulltext: https://journals.sagepub.com/doi/epub/10.1177/13872877251331222
