@@ -5,5 +5,5 @@
 <br />
 <strong>Office Location:</strong> Universitätsmedizin Rostock: Biomedicum
 <br />
-<strong>Email:</strong> <email>devesh.singh (at) uni-rostock.de</email>
+<strong>Email:</strong> <email>devesh.singh (at) med.uni-rostock.de</email>
 </p>
