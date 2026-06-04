@@ -1,7 +1,7 @@
 main:
 
   - title: "Evidence-Supported Automated Impressions for Alzheimer’s Disease Detection from Brain MRI: A Feasibility Study"
-    authors:  <strong>Devesh Singh</strong>, Dhanush H. Babu, Mathias Manzke, Marc-André Weber, Majid Ramedani, Arijana Bohr, Emmanuelle Salin, Bjoern Eskofier, Martin Dyrba
+    authors:  <strong>Devesh Singh</strong>, et al.
     journal_short: MIDL
     journal: Medical Imaging with Deep Learning (MIDL)
     fulltext: https://openreview.net/pdf?id=kEdSwWl1OG
@@ -11,7 +11,7 @@ main:
 
 
   - title: "An Unsupervised XAI Framework for Dementia Detection with Context Enrichment"
-    authors:  <strong>Devesh Singh*</strong>, Yusuf Brima, Fedor Levin, Martin Becker, Bjarne Hiller, Andreas Hermann, Irene Villar-Munoz, Lukas Beichert, Alexander Bernhardt, Katharina Buerger, Michaela Butryn, Peter Dechent, Emrah Duezel, Michael Ewers, Klaus Fliessbach, Silka D. Freiesleben, Wenzel Glanz, Stefan Hetzer, Daniel Janowitz, Doreen Goerss, Ingo Kilimann, Okka Kimmich, Christoph Laske, Johannes Levin, Andrea Lohse, Falk Luesebrink, Matthias Munk, Robert Perneczky, Oliver Peters, Lukas Preis, Josef Priller, Johannes Prudlo, Diana Prychynenko, Boris-Stephan Rauchmann, Ayda Rostamzadeh, Nina Roy-Kluth, Klaus Scheffler, Anja Schneider, Louise Droste zu Senden, Bjoern H. Schott, Annika Spottke, Matthis Synofzik, Jens Wiltfang, Frank Jessen, Marc-Andre Weber, Stefan J Teipel, Martin Dyrba* (*Corresponding author)
+    authors:  <strong>Devesh Singh*</strong>, Yusuf Brima, Fedor Levin, et al.
     journal_short: Sci Rep
     journal: Scientific Reports
     fulltext: https://doi.org/10.1038/s41598-025-26227-2
@@ -20,7 +20,7 @@ main:
     image: ./assets/img/XAI3.png
 
   - title: "SMAS: Structural MRI-based AD Score using Bayesian supervised VAE"
-    authors:  Aditya Nemali, Jose Bernal, Renat Yakupov, <strong>Devesh Singh</strong>, Martin Dyrba, EI Incesoy, Sach Mukherjee, Oliver Peters, J Hellmann-Regen, Ersin Ersoezlue, Lukas Preis, Josef Priller, Eike Spruth, Slawek Altenstein, Andrea Lohse, Anja Schneider, Klaus Fliessbach, Okka Kimmich, Jens Wiltfang, Niels Hansen, Bjoernhendrik Schott, Ayda Rostamzadeh, Wenzel Glanz, Michaela Butryn, Katharina Buerger, Daniel Janowitz, Michael Ewers, Robert Perneczky, Boris Rauchmann, Stefan Teipel, Ingo Kilimann, Doreen Goerss, Christoph Laske, Sebastian Sodenkamp, Annika Spottke, Marie Coenjaerts, Frederic Brosseron, Falk Luesebrink, Peter Dechent, Klaus Scheffler, Stefan Hetzer, Luca Kleineidam, Melina Stark, Frank Jessen, E Duzel, Gabriel Ziegler
+    authors:  Aditya Nemali, Jose Bernal, Renat Yakupov, <strong>Devesh Singh</strong>, Martin Dyrba, et al.
     journal_short: CIBM 
     journal: Computers in Biology and Medicine
     fulltext: https://www.sciencedirect.com/science/article/pii/S0010482525011801/pdfft?md5=b8e3ff09c2aefe39720874fd23178557&pid=1-s2.0-S0010482525011801-main.pdf
@@ -36,7 +36,7 @@ main:
     image: ./assets/img/ad-fidelity.png
     
   - title: "A computational ontology framework for the synthesis of multi-level pathology reports from brain MRI scans"
-    authors: <strong>Devesh Singh</strong>, Alice Grazia, Achim Reiz, Andreas Hermann, Slawek Altenstein, Lukas Beichert, Alexander Bernhardt, Katharina Buerger, Michaela Butryn, Peter Dechent, Emrah Duezel, Michael Ewers, Klaus Fliessbach, Silka D Freiesleben, Wenzel Glanz, Stefan Hetzer, Daniel Janowitz, Ingo Kilimann, Okka Kimmich, Christoph Laske, Johannes Levin, Andrea Lohse, Falk Luesebrink, Matthias Munk, Robert Perneczky, Oliver Peters, Lukas Preis, Josef Priller, Johannes Prudlo, Boris S Rauchmann, Ayda Rostamzadeh, Nina Roy-Kluth, Klaus Scheffler, Anja Schneider, Luisa S Schneider, Björn H Schott, Annika Spottke, Eike J Spruth, Matthis Synofzik, Jens Wiltfang, Frank Jessen, Stefan J Teipel, Martin Dyrba* (*Corresponding author)
+    authors: <strong>Devesh Singh</strong>, Alice Grazia, et al.
     journal_short: JAD
     journal: Journal of Alzheimer’s Disease
     fulltext: https://journals.sagepub.com/doi/epub/10.1177/13872877251331222
