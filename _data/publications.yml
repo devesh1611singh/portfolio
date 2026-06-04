@@ -11,7 +11,7 @@ main:
 
 
   - title: "An Unsupervised XAI Framework for Dementia Detection with Context Enrichment"
-    authors:  <strong>Devesh Singh*</strong> et al.
+    authors:  <strong>Devesh Singh</strong> et al.
     journal_short: Sci Rep
     journal: Scientific Reports
     fulltext: https://doi.org/10.1038/s41598-025-26227-2
@@ -45,7 +45,7 @@ main:
     image: ./assets/img/comp_onto_viz_git_page.png
 
   - title: "Contrastive self-supervised learning for neurodegenerative disorder classification"
-    authors: Vadym Gryshchuk, <strong>Devesh Singh</strong>, Stefan Teipel, Martin Dyrba* (*Corresponding author)
+    authors: Vadym Gryshchuk, <strong>Devesh Singh</strong>, Stefan Teipel, Martin Dyrba
     journal_short: Front. Neuroinform.
     journal: Frontiers in Neuroinformatics
     fulltext: https://www.frontiersin.org/journals/neuroinformatics/articles/10.3389/fninf.2025.1527582/full
