@@ -12,9 +12,10 @@ Outside of academia, I have had the opportunity to serve as a Research Fellow at
 
 ## Research Interests
 
-- **Computer Vision:** Image classification, Semantic segmentation, Medical image analysis
-- **Deep Learning:** Self-supervised learning, Generative modeling, Explainable AI (XAI)
-
+- **Medical Image Analysis:** Brain MRI, classification, segmentation
+- **Deep Learning:** Self-supervised learning, Generative modeling, Bayesian modeling
+- **Explainable AI:** Interpretable clinical decision support, ontological rule-based reasoning
+- **LLMs for Clinical Explanation:** RAG, evaluating output reliability
 
 <div style="margin-top: 40px;"></div>
 {% include_relative _includes/publications.md %}
