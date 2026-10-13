@@ -1,4 +1,11 @@
 main:
+  - title: "Hybrid multimodal late fusion frameworks for bvFTD classification in imbalanced dementia datasets"
+    authors:  Majid Ramedani, Jaya C. Terli, <strong>Devesh Singh</strong>, et al.
+    journal_short: Front. Aging Neurosci.
+    journal: Frontiers in Aging Neuroscience
+    fulltext: https://www.frontiersin.org/journals/aging-neuroscience/articles/10.3389/fnagi.2026.1892568/full
+    doi: https://doi.org/10.3389/fnagi.2026.1892568
+    image: ./assets/img/Hybrid_multimodal_bvFTD.png
 
   - title: "Evidence-Supported Automated Impressions for Alzheimer’s Disease Detection from Brain MRI: A Feasibility Study"
     authors:  <strong>Devesh Singh</strong>, et al.
