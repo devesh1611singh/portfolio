@@ -16,16 +16,16 @@
     {% endif %}
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="{{ link.doi }}">{{ link.title }}</a></div>
+      <div class="title"><a href="{{ link.doi }}" data-umami-event="publication-title" data-umami-event-paper="{{ link.title | truncate: 80 | escape }}">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
       <div class="journal"><em>{{ link.journal }}</em>
       </div>
     <div class="links">
       {% if link.doi %} 
-      <a href="{{ link.doi }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">DOI</a>
+      <a href="{{ link.doi }}" class="btn btn-sm z-depth-0" role="button" target="_blank" data-umami-event="publication-doi" data-umami-event-paper="{{ link.title | truncate: 80 | escape }}" style="font-size:12px;">DOI</a>
       {% endif %}
       {% if link.code %} 
-      <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" data-umami-event="publication-code" data-umami-event-paper="{{ link.title | truncate: 80 | escape }}" style="font-size:12px;">Code</a>
       {% endif %}
       {% if link.page %} 
       <a href="{{ link.fulltext }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Full Text</a>
